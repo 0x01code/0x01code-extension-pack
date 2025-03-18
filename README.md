@@ -1,4 +1,4 @@
-# Git Extension Pack README
+# 0x01code Extension Pack README
 
 ## Working with Markdown
 
